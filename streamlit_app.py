@@ -1,3 +1,5 @@
+""" Automatic Website Migration Tool, By @LeeFootSEO - 03/04/2023"""
+
 import pandas as pd
 import numpy as np
 from sentence_transformers import SentenceTransformer
